@@ -1,0 +1,11 @@
+{
+  "name": "runBin",
+  "version": "0.0.0",
+  "description": "Node.js Addons runBin",
+  "main": "index.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  }
+}
